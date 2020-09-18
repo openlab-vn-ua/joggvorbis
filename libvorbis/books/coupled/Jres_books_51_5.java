@@ -11,7 +11,8 @@ public final class Jres_books_51_5 {
 		4,
 	};
 
-	private static final byte _vq_lengthlist__44p4_p4_1[] = {
+	private static final byte _vq_lengthlist__44p4_p4_1[] = _vq_lengthlist__44p4_p4_1_.d;
+	private static final class _vq_lengthlist__44p4_p4_1_ { static final byte d[] = {
 		 4, 5, 5, 9, 9,12, 9, 9,12,12,12,10,10,13,13,13,
 		11,11,12,12,13,13,13,12,12,13,10,10,13,13,13,13,
 		13,13,13,13,10,10,13,12,13,11,11,13,13,13,14,14,
@@ -208,7 +209,7 @@ public final class Jres_books_51_5 {
 		12,12,15,14,14,13,13,14,15,15,20,20,15,15,15,20,
 		19,15,14,14,20,19,15,15,15,20,20,15,14,14,21,20,
 		15,15,15,20,20,
-	};
+	}; }
 
 	public static final Jstatic_codebook _44p4_p4_1 = new Jstatic_codebook(
 		5, 3125,
@@ -226,7 +227,8 @@ public final class Jres_books_51_5 {
 		4,
 	};
 
-	private static final byte _vq_lengthlist__44p4_p5_0[] = {
+	private static final byte _vq_lengthlist__44p4_p5_0[] = _vq_lengthlist__44p4_p5_0_.d;
+	private static final class _vq_lengthlist__44p4_p5_0_ { static final byte d[] = {
 		 1, 7, 6,15,15, 7, 8, 8,15,15, 8, 8, 8,15,15, 0,
 		13,13,16,16, 0,14,14,16,16, 7, 9, 9,16,16,10,11,
 		11,17,17,10, 8, 8,15,16, 0,14,14,18,18, 0,14,14,
@@ -423,7 +425,7 @@ public final class Jres_books_51_5 {
 		 0,21, 0,21,21, 0, 0, 0,18,19,23,21, 0,20,19, 0,
 		 0, 0, 0, 0, 0, 0, 0,17,17, 0,20, 0, 0, 0, 0, 0,
 		 0,19,19,23,22,
-	};
+	}; }
 
 	public static final Jstatic_codebook _44p4_p5_0 = new Jstatic_codebook(
 		5, 3125,

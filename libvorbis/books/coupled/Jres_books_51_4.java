@@ -11,7 +11,8 @@ public final class Jres_books_51_4 {
 		4,
 	};
 
-	private static final byte _vq_lengthlist__44p3_p4_1[] = {
+	private static final byte _vq_lengthlist__44p3_p4_1[] = _vq_lengthlist__44p3_p4_1_.d;
+	private static final class _vq_lengthlist__44p3_p4_1_ { static final byte d[] = {
 		 3, 4, 5, 8, 8,12,10,10,12,12,12,10,10,12,12,13,
 		11,11,12,12,13,12,12,12,12,13,10,10,13,13,13,13,
 		13,13,13,13,10,10,13,13,13,11,11,13,13,14,13,13,
@@ -208,7 +209,7 @@ public final class Jres_books_51_4 {
 		12,12,15,14,14,13,13,14,15,15,22,20,15,15,15,20,
 		20,15,14,14,21,20,15,15,15,20,21,15,14,14,20,20,
 		14,15,15,20,20,
-	};
+	}; }
 
 	public static final Jstatic_codebook _44p3_p4_1 = new Jstatic_codebook(
 		5, 3125,
@@ -226,7 +227,8 @@ public final class Jres_books_51_4 {
 		4,
 	};
 
-	private static final byte _vq_lengthlist__44p3_p5_0[] = {
+	private static final byte _vq_lengthlist__44p3_p5_0[] = _vq_lengthlist__44p3_p5_0_.d;
+	private static final class _vq_lengthlist__44p3_p5_0_ { static final byte d[] = {
 		 2, 6, 6,14,14, 6, 7, 7,14,14, 7, 7, 7,15,15, 0,
 		12,12,15,15, 0,13,13,15,15, 7, 8, 8,15,15,10,10,
 		10,16,16, 9, 8, 8,15,15, 0,13,13,18,17, 0,13,13,
@@ -423,7 +425,7 @@ public final class Jres_books_51_4 {
 		21,20, 0,20, 0, 0, 0, 0,18,18,21, 0, 0,18,18, 0,
 		 0, 0, 0, 0, 0, 0, 0,16,16,21,19, 0, 0, 0, 0, 0,
 		 0,18,18, 0,21,
-	};
+	}; }
 
 	public static final Jstatic_codebook _44p3_p5_0 = new Jstatic_codebook(
 		5, 3125,
@@ -829,7 +831,8 @@ public final class Jres_books_51_4 {
 		4,
 	};
 
-	private static final byte _vq_lengthlist__44p4_p2_0[] = {
+	private static final byte _vq_lengthlist__44p4_p2_0[] = _vq_lengthlist__44p4_p2_0_.d;
+	private static final class _vq_lengthlist__44p4_p2_0_ { static final byte d[] = {
 		 3, 9, 9, 0, 0, 0, 8, 8, 0, 0, 0, 9, 9, 0, 0, 0,
 		12,12, 0, 0, 0, 0, 0, 0, 0, 0,10,10, 0, 0, 0, 0,
 		 0, 0, 0, 0, 9, 9, 0, 0, 0,11,11, 0, 0, 0, 0, 0,
@@ -1026,7 +1029,7 @@ public final class Jres_books_51_4 {
 		 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 		 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 		 0, 0, 0, 0, 0,
-	};
+	}; }
 
 	public static final Jstatic_codebook _44p4_p2_0 = new Jstatic_codebook(
 		5, 3125,
