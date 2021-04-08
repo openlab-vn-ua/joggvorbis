@@ -1,6 +1,6 @@
 Android compatible Ogg audio encoder
 *****************************************************************************
-Ogg Vorbis encoder for Andorid
+Ogg Vorbis codec for Andorid
 
 The project based on source code from:
 https://github.com/ggrandes-clones/joggvorbis
