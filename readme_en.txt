@@ -1,4 +1,15 @@
-﻿Java versions of the Ogg Vorbis libraries
+Android compatible Ogg audio encoder
+*****************************************************************************
+Ogg Vorbis encoder for Andorid
+
+The project based on source code from:
+https://github.com/ggrandes-clones/joggvorbis
+The source repo (in turn) looks like a copy/fork from:
+http://dmilvdv.narod.ru/Apps/oggvorbis.html
+
+The source only changed a bit to compile both by standard Java and Android
+
+Java versions of the Ogg Vorbis libraries
 *****************************************************************************
 Conformity:
 
