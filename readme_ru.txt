@@ -1,4 +1,14 @@
-﻿Java версия библиотек для работы с Ogg Vorbis.
+﻿Аудиокодек Ogg, совместимый с Android (енкодер Ogg Vorbis для Andorid)
+*******
+
+Проект основан на исходном коде из:
+https://github.com/ggrandes-clones/joggvorbis
+Исходный репозиторий (в свою очередь) выглядит как копия / форк из:
+http://dmilvdv.narod.ru/Apps/oggvorbis.html
+
+Источник лишь немного изменился для компиляции как стандартной Java, так и Android.  
+
+Java версия библиотек для работы с Ogg Vorbis.
 *******
 Соответствие:
 
